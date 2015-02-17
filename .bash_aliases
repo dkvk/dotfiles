@@ -1,5 +1,0 @@
-alias mysqlstart='sudo /usr/local/mysql/support-files/mysql.server start'
-alias mysqlstop='sudo /usr/local/mysql/support-files/mysql.server stop'
-alias ls='ls -G'
-alias apachectl='sudo apachectl'
-alias htop='sudo htop'
