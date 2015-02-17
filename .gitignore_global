@@ -1,0 +1,9 @@
+*~
+.DS_Store
+parameters.yml
+valuatumquerybuilder/.idea
+.idea
+cookbooks
+tmp
+index.html
+fos_js_routes.js
