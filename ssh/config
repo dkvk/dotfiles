@@ -1,0 +1,26 @@
+ServerAliveCountMax 3
+ServerAliveInterval 10
+ForwardAgent yes
+
+
+Host worker01
+HostName worker01.rdey.se
+
+Host cache01
+HostName cache01.rdey.se
+
+Host front01
+HostName front01.rdey.se
+
+Host front02
+HostName front02.rdey.se
+
+Host backend01
+HostName redeye.se
+
+Host unifi
+HostName unifi.redeye.se
+User redeye
+
+Host database01
+HostName database01.rdey.se
